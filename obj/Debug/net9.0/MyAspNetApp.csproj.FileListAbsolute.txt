@@ -161,3 +161,4 @@ D:\Csharp-project\MyAspNetApp\obj\Debug\net9.0\refint\MyAspNetApp.dll
 D:\Csharp-project\MyAspNetApp\obj\Debug\net9.0\MyAspNetApp.pdb
 D:\Csharp-project\MyAspNetApp\obj\Debug\net9.0\MyAspNetApp.genruntimeconfig.cache
 D:\Csharp-project\MyAspNetApp\obj\Debug\net9.0\ref\MyAspNetApp.dll
+D:\Csharp-project\MyAspNetApp\obj\Debug\net9.0\MyAspNetApp.sourcelink.json
