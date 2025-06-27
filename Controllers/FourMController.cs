@@ -5,7 +5,7 @@ using MyAspNetApp.Models;   // ✅ For FourMData model
 
 namespace MyAspNetApp.Controllers  // ✅ Ensure the namespace matches your project
 {
-    [Route("api/[controller]")]
+    [Route("api/data")]
     [ApiController]
     public class FourMController : ControllerBase
     {
