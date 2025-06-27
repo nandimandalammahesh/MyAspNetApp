@@ -21,6 +21,7 @@ namespace MyAspNetApp.Controllers  // ✅ Ensure the namespace matches your proj
         public async Task<IActionResult> GetAll()
         {
             var data = await _context.FourMData.ToListAsync();
+            Console.WriteLine("data jehbvujhbuhvbnehivbnehivnhivnehivn",data);
             return Ok(data);
         }
     }
